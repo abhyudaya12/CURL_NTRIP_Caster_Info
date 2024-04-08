@@ -7,4 +7,4 @@ Python(ipynb) version and C++ version
 * For Python just use Jupyter notebook or Kaggle notebook
 * For C++ version you need to install cURL.
 * Link for cURL: https://curl.se/download.html
-* Use cmake for the cURL library for the .dll file
+* Use cmake for the .dll file from the cURL library
